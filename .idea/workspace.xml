@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="" />
+    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/sen_ana_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model/sen_ana_model.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ashva/Projects/sentiment_analysis",
+    "last_opened_file_path": "C:/Users/ashva/Projects/sentiment_analysis/model/Loss plt.jpg",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -63,7 +66,9 @@
       <updated>1672943600759</updated>
       <workItem from="1672943601866" duration="176000" />
       <workItem from="1672943796183" duration="930000" />
-      <workItem from="1672975388020" duration="3957000" />
+      <workItem from="1672975388020" duration="4057000" />
+      <workItem from="1672989184751" duration="33000" />
+      <workItem from="1673025335133" duration="3841000" />
     </task>
     <servers />
   </component>

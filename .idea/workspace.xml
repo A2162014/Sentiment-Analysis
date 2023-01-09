@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/sen_ana_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model/sen_ana_model.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,7 +99,7 @@
       <workItem from="1673025335133" duration="4278000" />
       <workItem from="1673107481584" duration="1210000" />
       <workItem from="1673162569072" duration="23780000" />
-      <workItem from="1673233324034" duration="2028000" />
+      <workItem from="1673233324034" duration="2167000" />
     </task>
     <servers />
   </component>

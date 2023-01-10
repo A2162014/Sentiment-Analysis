@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="" />
+    <list default="true" id="3795f84f-45bb-419a-8a52-ba48b66a8bb8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/keras_metadata.pb" beforeDir="false" afterPath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/keras_metadata.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/saved_model.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/variables/variables.data-00000-of-00001" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/model/model/training_1/cp.ckpt/variables/variables.index" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/my_sen_ana_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/model/my_sen_ana_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/sen_ana_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model/sen_ana_model.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,6 +108,7 @@
       <workItem from="1673107481584" duration="1210000" />
       <workItem from="1673162569072" duration="23780000" />
       <workItem from="1673233324034" duration="2167000" />
+      <workItem from="1673278042469" duration="5952000" />
     </task>
     <servers />
   </component>
